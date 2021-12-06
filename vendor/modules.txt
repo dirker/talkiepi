@@ -1,0 +1,62 @@
+# github.com/dchote/go-openal v0.0.0-20171116030048-f4a9a141d372
+## explicit
+github.com/dchote/go-openal/openal
+# github.com/dchote/gopus v0.0.0-20171117015032-b7e16762b096
+## explicit
+github.com/dchote/gopus
+# github.com/dchote/gpio v0.0.0-20160912012454-03d78156ad1a
+## explicit
+github.com/dchote/gpio
+# github.com/dchote/gumble v0.0.0-20171217174924-fb6d7385a5cd
+## explicit
+github.com/dchote/gumble/gumble
+github.com/dchote/gumble/gumble/MumbleProto
+github.com/dchote/gumble/gumble/varint
+github.com/dchote/gumble/gumbleopenal
+github.com/dchote/gumble/gumbleutil
+github.com/dchote/gumble/opus
+# github.com/dchote/talkiepi v0.0.0-20190204123126-c3d9bc78b3f1
+## explicit
+github.com/dchote/talkiepi
+# github.com/golang/protobuf v1.5.2
+## explicit; go 1.9
+github.com/golang/protobuf/proto
+# github.com/kennygrant/sanitize v1.2.4
+## explicit
+github.com/kennygrant/sanitize
+# github.com/stianeikeland/go-rpio v4.2.0+incompatible
+## explicit
+github.com/stianeikeland/go-rpio
+# golang.org/x/net v0.0.0-20211203184738-4852103109b8
+## explicit; go 1.17
+golang.org/x/net/html
+golang.org/x/net/html/atom
+# google.golang.org/protobuf v1.26.0
+## explicit; go 1.9
+google.golang.org/protobuf/encoding/prototext
+google.golang.org/protobuf/encoding/protowire
+google.golang.org/protobuf/internal/descfmt
+google.golang.org/protobuf/internal/descopts
+google.golang.org/protobuf/internal/detrand
+google.golang.org/protobuf/internal/encoding/defval
+google.golang.org/protobuf/internal/encoding/messageset
+google.golang.org/protobuf/internal/encoding/tag
+google.golang.org/protobuf/internal/encoding/text
+google.golang.org/protobuf/internal/errors
+google.golang.org/protobuf/internal/filedesc
+google.golang.org/protobuf/internal/filetype
+google.golang.org/protobuf/internal/flags
+google.golang.org/protobuf/internal/genid
+google.golang.org/protobuf/internal/impl
+google.golang.org/protobuf/internal/order
+google.golang.org/protobuf/internal/pragma
+google.golang.org/protobuf/internal/set
+google.golang.org/protobuf/internal/strs
+google.golang.org/protobuf/internal/version
+google.golang.org/protobuf/proto
+google.golang.org/protobuf/reflect/protodesc
+google.golang.org/protobuf/reflect/protoreflect
+google.golang.org/protobuf/reflect/protoregistry
+google.golang.org/protobuf/runtime/protoiface
+google.golang.org/protobuf/runtime/protoimpl
+google.golang.org/protobuf/types/descriptorpb
